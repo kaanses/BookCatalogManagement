@@ -1,0 +1,1 @@
+using Microsoft.AspNetCore.Mvc;using Mvc.BookManagement.Interfaces;using Serilog;namespace Mvc.BookManagement.Helpers{     public class ResultHandlerFactory : IResultHandlerFactory    {        public IResultHandler Create(Controller controller)        {            return new ResultHandler(controller);        }    }}

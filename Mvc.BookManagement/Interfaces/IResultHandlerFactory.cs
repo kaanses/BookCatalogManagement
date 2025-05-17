@@ -1,0 +1,1 @@
+using Microsoft.AspNetCore.Mvc;namespace Mvc.BookManagement.Interfaces;public interface IResultHandlerFactory{    IResultHandler Create(Controller controller);}

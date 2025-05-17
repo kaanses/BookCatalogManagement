@@ -1,0 +1,1 @@
+namespace Mvc.BookManagement.Models.ViewModels;public class BookCreateViewModel{    public string Title { get; set; }    public string Author { get; set; }    public string Genre { get; set; }    public int PageCount { get; set; }}

@@ -1,0 +1,1 @@
+using Ardalis.Result;using Microsoft.AspNetCore.Mvc;namespace Mvc.BookManagement.Interfaces;public interface IResultHandler{    IActionResult HandleResult<T>(Result<T> result, Func<T, IActionResult> onSuccess);}
