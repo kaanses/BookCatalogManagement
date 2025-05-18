@@ -1,0 +1,1 @@
+namespace Mvc.BookManagement.Resources.SharedResources;public class SharedResource{    }

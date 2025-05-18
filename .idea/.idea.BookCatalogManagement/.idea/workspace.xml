@@ -9,22 +9,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2bd47c5-a97e-4c88-b9ad-66e5bb84cc7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Controllers/BookController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/CacheHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ResultHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ResultHandlerFactory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ValidationHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IResultHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IResultHandlerFactory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Models/ViewModels/BookCreateViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Models/ViewModels/BookUpdateViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Models/ViewModels/BookViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.en.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.en.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.tr.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.tr.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BookCatalogManagement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookCatalogManagement/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/BookManager.db" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/BookManager.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Controllers/BookController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Controllers/BookController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Controllers/HomeController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Data/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Data/ApplicationDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Data/Repository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Data/Repository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Data/UnitOfWork.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Data/UnitOfWork.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ResultHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ResultHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ResultHandlerFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ResultHandlerFactory.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IBookService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IBookService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IUnitOfWork.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IUnitOfWork.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Mappings/MappingProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Mappings/MappingProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Migrations/20250514085221_InitialCreate.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Migrations/20250514085221_InitialCreate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Mvc.BookManagement.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Mvc.BookManagement.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Services/BookService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Services/BookService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Validators/BookInputDTOValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Validators/BookInputDTOValidator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Views/Home/Privacy.cshtml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/logs/logs20250517.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/logs/logs20250517.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +51,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "kaanses"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kaanses&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kaanses/BookCatalogManagement.git",
-    "accountId": "3e3d4739-5501-48bb-a527-aad0d79b17af"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kaanses/BookCatalogManagement.git&quot;,
+    &quot;accountId&quot;: &quot;3e3d4739-5501-48bb-a527-aad0d79b17af&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0944abd14e7f429d8de5b3415a83d06219c00/c8/3bb02f33/WebApplicationBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/649f9a5315084d038b64e29ea11b1fb57000/e7/29a5622e/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2x4qjmQkm9TLukGE5maSaAwwWV4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -59,28 +81,28 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.Mvc.BookManagement: http.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.Mvc.BookManagement: http.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/kaanses/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/Users/kaanses/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/Users/kaanses/Library/Application Support/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/kaanses/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/kaanses/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/kaanses/Library/Application Support/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Mvc.BookManagement: http">
     <configuration name="Mvc.BookManagement: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Mvc.BookManagement/Mvc.BookManagement.csproj" />
@@ -122,7 +144,8 @@
       <option name="presentableId" value="Default" />
       <updated>1721726172447</updated>
       <workItem from="1721726174361" duration="530000" />
-      <workItem from="1747207831859" duration="50040000" />
+      <workItem from="1747207831859" duration="73898000" />
+      <workItem from="1747518256741" duration="21729000" />
     </task>
     <servers />
   </component>
