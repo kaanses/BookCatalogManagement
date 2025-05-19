@@ -1,0 +1,12 @@
+2025-05-19 17:33:51.196 +03:00 [WRN] Failed to determine the https port for redirect.
+2025-05-19 17:33:51.465 +03:00 [INF] Retrieved all books from database
+2025-05-19 17:34:35.290 +03:00 [INF] New book created: {"Id":10,"Title":"Riders On The Storm","Author":"Snopp Dogg","Genre":"Fiction","PageCount":341,"$type":"BookDTO"}
+2025-05-19 17:34:35.309 +03:00 [INF] Retrieved all books from database
+2025-05-19 17:35:00.911 +03:00 [INF] Retrieved all books from cache
+2025-05-19 17:35:18.770 +03:00 [INF] Retrieved book 10 from cache
+2025-05-19 17:35:42.230 +03:00 [INF] Book updated: {"Id":10,"Title":"Riders On The Storm","Author":"Snopp Dogg","Genre":"Fiction","PageCount":3416,"$type":"BookDTO"}
+2025-05-19 17:35:42.239 +03:00 [INF] Retrieved all books from database
+2025-05-19 17:35:55.899 +03:00 [INF] Retrieved book 8 from database
+2025-05-19 17:36:26.082 +03:00 [INF] Book with ID 10 deleted
+2025-05-19 17:36:26.089 +03:00 [INF] Retrieved all books from database
+2025-05-19 18:10:03.355 +03:00 [INF] Retrieved all books from database

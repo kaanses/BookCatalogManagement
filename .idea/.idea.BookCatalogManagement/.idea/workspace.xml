@@ -9,36 +9,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2bd47c5-a97e-4c88-b9ad-66e5bb84cc7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.en.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.en.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.tr.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.tr.resx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BookCatalogManagement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BookCatalogManagement/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/BookManager.db" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/BookManager.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Controllers/BookController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Controllers/BookController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Data/ApplicationDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Data/ApplicationDbContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Data/Repository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Data/Repository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Data/UnitOfWork.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Data/UnitOfWork.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ResultHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ResultHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/CacheHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/CacheHelper.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ResultHandlerFactory.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ResultHandlerFactory.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IBookService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IBookService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ValidationHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Helpers/ValidationHelper.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IUnitOfWork.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Interfaces/IUnitOfWork.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Mappings/MappingProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Mappings/MappingProfile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Migrations/20250514085221_InitialCreate.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Migrations/20250514085221_InitialCreate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Migrations/ApplicationDbContextModelSnapshot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Mvc.BookManagement.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Mvc.BookManagement.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.en.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.en.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.en.resx" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.en.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.tr.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.tr.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.tr.resx" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Resources/SharedResources/SharedResource.tr.resx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Services/BookService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Services/BookService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Validators/BookInputDTOValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Validators/BookInputDTOValidator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Views/Home/Privacy.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/Views/Shared/_Layout.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/logs/logs20250517.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Mvc.BookManagement/logs/logs20250517.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/logs/logs20250516.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/logs/logs20250517.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mvc.BookManagement/logs/logs20250518.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +55,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0944abd14e7f429d8de5b3415a83d06219c00/c8/3bb02f33/WebApplicationBuilder.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/649f9a5315084d038b64e29ea11b1fb57000/e7/29a5622e/IConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a0741529c8554d199992ef9e50684668d82800/ee/d2a4e870/IDictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -145,7 +135,7 @@
       <updated>1721726172447</updated>
       <workItem from="1721726174361" duration="530000" />
       <workItem from="1747207831859" duration="73898000" />
-      <workItem from="1747518256741" duration="21729000" />
+      <workItem from="1747518256741" duration="47383000" />
     </task>
     <servers />
   </component>
@@ -153,6 +143,17 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

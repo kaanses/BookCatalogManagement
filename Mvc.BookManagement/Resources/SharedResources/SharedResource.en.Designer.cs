@@ -201,27 +201,9 @@ namespace Mvc.BookManagement.Resources.SharedResources {
             }
         }
         
-        internal static string TitleRequired {
+        internal static string IsRequired {
             get {
-                return ResourceManager.GetString("TitleRequired", resourceCulture);
-            }
-        }
-        
-        internal static string AuthorRequired {
-            get {
-                return ResourceManager.GetString("AuthorRequired", resourceCulture);
-            }
-        }
-        
-        internal static string GenreRequired {
-            get {
-                return ResourceManager.GetString("GenreRequired", resourceCulture);
-            }
-        }
-        
-        internal static string PageCountRequired {
-            get {
-                return ResourceManager.GetString("PageCountRequired", resourceCulture);
+                return ResourceManager.GetString("IsRequired", resourceCulture);
             }
         }
         
@@ -273,15 +255,15 @@ namespace Mvc.BookManagement.Resources.SharedResources {
             }
         }
         
-        internal static string PageCountMin {
-            get {
-                return ResourceManager.GetString("PageCountMin", resourceCulture);
-            }
-        }
-        
         internal static string PageCountMax {
             get {
                 return ResourceManager.GetString("PageCountMax", resourceCulture);
+            }
+        }
+        
+        internal static string PageCountMin {
+            get {
+                return ResourceManager.GetString("PageCountMin", resourceCulture);
             }
         }
         
